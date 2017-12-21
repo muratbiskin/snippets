@@ -1,2 +1,2 @@
 # snippets
-Ramdom code snippets.
+Ramdom code snippets
